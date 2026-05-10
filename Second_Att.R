@@ -17,3 +17,6 @@ print("I permanently added github.com (ED25519) key fingerprint to the list of k
 print("I used the script: 'ssh -T git@github.com' to add GitHubs finger print to known hosts")
 
 print("After doing this, my edited script was able to be committed to Second_Att repo")
+
+print("Last check to confirm")
+
