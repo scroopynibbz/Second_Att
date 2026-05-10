@@ -20,3 +20,9 @@ print("After doing this, my edited script was able to be committed to Second_Att
 
 print("Last check to confirm")
 
+print("Did what the next lesson was supposed to go throu, by linking the directories and repositories")
+
+print("Used 'git init', 'git add ., and 'git commit -m ''Initial Commit'' commands")
+
+print("Known hosts add may be useful from a perspective of know my entire system recognises GitHub, whereby this method only links this specific project with GitHub repos")
+
